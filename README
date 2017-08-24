@@ -1,4 +1,4 @@
-# DSS Computing Bootcamp
+# DSS Computing Bootcamp 2017
 
 This is a 3 hour computing bootcamp for incoming PhD and MS
 students to the Department of Statistical Science at Duke University.
